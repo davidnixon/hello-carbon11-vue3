@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@carbon/grid": "^11.34.0",
-    "@carbon/icons-vue": "^10.99.1",
+    "@carbon/icons-vue": "^10.107.0",
     "@carbon/themes": "^11.50.0",
     "@carbon/web-components": "^2.27.2",
     "@stylistic/eslint-plugin": "^4.2.0",
